@@ -1,6 +1,6 @@
 # Nmap VSFTPD Project
 
-This project demonstrates a basic Nmap scanning workflow followed by exploitation using Metasploit on a vulnerable vsFTPd 2.3.4 service.
+This project demonstrates a basic Nmap scanning workflow followed by exploitation (refer Nmap-vsftpd-Metasploit file) using Metasploit on a vulnerable vsFTPd 2.3.4 service.
 
 ## Steps
 

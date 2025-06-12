@@ -83,7 +83,7 @@ In real-world penetration testing or vulnerability assessments, I follow the **s
 - **Exploitation**: Ethically attempting to exploit known vulnerabilities to validate risk
 
 🔒 **Important Note**:  
-The tools and commands may vary based on the target systems, environments, and client requirements. However, the **methodology remains consistent** — understanding why a vulnerability exists, **how it can be exploited ethically**, and most importantly, **how to help clients remediate the issue**.
+The tools and commands may vary based on the target systems, environments, and client requirements. However, the **methodology remains consistent** - understanding why a vulnerability exists, **how it can be exploited ethically**, and most importantly, **how to help clients remediate the issue**.
 
 ---
 

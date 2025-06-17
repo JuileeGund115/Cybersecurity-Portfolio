@@ -40,7 +40,7 @@ As part of my hands-on learning and professional development, I’ve built a cyb
 | 2 | [Nmap-vsFTPd-project](https://github.com/JuileeGund115/Nmap-vsFTPd-project)        | Network Scanning, Port Enumeration, Service Detection, Vulnerability Analysis           |
 | 3 | [Metasploit_Post-Exploitation_Project](https://github.com/JuileeGund115/Metasploit_Post-Exploitation_Project)            | Cloud Security, SQL Injection Testing, IAM Policy Review, Database Misconfigurations                    |
 | 4 | [Cloud_Database_Vulnerability_Assessment](https://github.com/JuileeGund115/Cloud_Database_Vulnerability_Assessment)  | Blockchain Security, Smart Contract Auditing, JSON-RPC, Heuristics, Transaction Analysis |
-| 5 | [MSc Cybersecurity Dissertation](https://github.com/JuileeGund115/MSc Cybersecurity Dissertation)    | Incident Lifecycle, Response Planning, Log Analysis, Forensics Techniques                 |
+| 5 | [MSc Cybersecurity Dissertation](https://github.com/JuileeGund115/Cybersecurity-Portfolio/tree/main/MSc%20Cybersecurity%20Dissertation))    | Incident Lifecycle, Response Planning, Log Analysis, Forensics Techniques                 |
 | 6 |  [Reserved for Future Project] | TBD |
 
 

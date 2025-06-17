@@ -77,6 +77,6 @@ During my master’s program, I conducted advanced research focused on cyber-ris
 
 <a href="mailto:juileegund115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/juilee-gund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Juilee-Cybersecurity-Portfolio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/JuileeGund115"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 Let’s connect and build a secure digital world together! 🌐🔐

@@ -1,4 +1,4 @@
-# Juilee Gund – Cybersecurity Professional 
+# Juilee Gund - Cybersecurity Professional 
 
 ---
 

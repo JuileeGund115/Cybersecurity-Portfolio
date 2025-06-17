@@ -112,18 +112,4 @@ The audit encompasses all IT infrastructure, including:
 
 ---
 
-## 📁 Project Type
-
-> 📂 Portfolio Project – **Cybersecurity Internal Audit**
-
----
-
-## ✍️ Author
-
-**[Your Name]**  
-Cybersecurity Enthusiast | Risk & Compliance Analyst  
-[Your LinkedIn] • [Your Portfolio Website] • [Your Email]
-
----
-
 > 🛑 *Disclaimer: This project is fictional and intended for educational and portfolio purposes only.*

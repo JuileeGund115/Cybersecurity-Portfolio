@@ -45,18 +45,6 @@ As part of my hands-on learning and professional development, I’ve built a cyb
 | 5 | [MSc Cybersecurity Dissertation](https://github.com/JuileeGund115/Cybersecurity-Portfolio/tree/main/MSc%20Cybersecurity%20Dissertation))    | Incident Lifecycle, Response Planning, Log Analysis, Forensics Techniques                 |
 | 6 |  [Reserved for Future Project] | TBD |
 
-
-### 🧰 Tools & Platforms Used
-
-- **Penetration Testing:**	Burp Suite, OWASP ZAP, Metasploit, Nmap
-- **Security Monitoring:** Suricata, Splunk, Chronicle SIEM  
-- **Traffic Analysis:** Wireshark, Tcpdump  
-- **Scripting & Automation:** Python, Bash
-- **Reverse Engineering:**	Ghidra
-- **Infrastructure:** Linux OS, SQL
-- **Blockchain Security:**	Remix IDE, Mythril, Ethereum JSON-RPC
-- **Documentation:** Markdown, Google Workspace  
-
 ### 🚀 Target Roles
 
 This portfolio has prepared me for entry-level roles such as:

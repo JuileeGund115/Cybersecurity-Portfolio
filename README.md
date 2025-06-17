@@ -36,7 +36,7 @@ As part of my hands-on learning and professional development, I’ve built a cyb
 
 | # | Project/Task                    | Skills & Concepts Explored   | 
 |---|----------------------------------|--------------------------------------------------------------------------------------------|
-| 1 | Security_Audit_Case_Study(https://github.com/JuileeGund115/Security_Audit_Case_Study)       | INFOSEC, NIST Risk Management Framework, Security Audits, Compliance Checklists, CIA Triad |
+| 1 | [Security_Audit_Case_Study](https://github.com/JuileeGund115/Security_Audit_Case_Study)       | INFOSEC, NIST Risk Management Framework, Security Audits, Compliance Checklists, CIA Triad |
 | 2 | Nmap-vsFTPd-project             | Network Scanning, Port Enumeration, Service Detection, Vulnerability Analysis           |
 | 3 | Metasploit_Post-Exploitation_Project             | Cloud Security, SQL Injection Testing, IAM Policy Review, Database Misconfigurations                    |
 | 4 | Cloud_Database_Vulnerability_Assessment  | Blockchain Security, Smart Contract Auditing, JSON-RPC, Heuristics, Transaction Analysis |

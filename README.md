@@ -71,14 +71,29 @@ This portfolio has prepared me for entry-level roles such as:
 
 ## 🧪 Projects
 
-### 🔍 Web Application Penetration Testing
-Performed a full security assessment of an e-commerce web application using **Burp Suite** and **OWASP ZAP**. Identified and reported multiple critical vulnerabilities (XSS, SQL Injection), with detailed remediation strategies.
+### 🔍 SOC Monitoring & Threat Detection Simulation 
+• Simulated real-time SIEM alert monitoring and EDR-based threat detection, performed incident triage and 
+forensic investigation using Wireshark, and supported rule tuning and documentation of response workflows 
+aligned with the MITRE ATT&CK framework. 
 
-### 🔓 IoT Firmware Reverse Engineering
-Analyzed firmware from a smart IoT device using **Binwalk** and **Ghidra**. Discovered insecure hardcoded credentials and exposed debug ports, simulating attack vectors.
 
-### 🔗 Blockchain Smart Contract Audit
-Audited Ethereum smart contracts using **Mythril** and **Remix IDE**. Detected critical vulnerabilities like reentrancy and integer overflows, and proposed secure contract redesign.
+### 🔓  Vulnerability Assessment & Automated Testing on JSON Applications 
+• Developed a fuzz testing framework using AFL++ to identify input validation flaws in web APIs, integrated 
+automation scripts to streamline vulnerability assessments, and enhanced DevSecOps efficiency and detection 
+capabilities. 
+
+
+### 🔗 Governance & Compliance Audit for Financial Client 
+• Conducted end-to-end risk assessments, compliance audits, and internal policy reviews using ISO 27001, NIST, 
+and SOC 2 frameworks produced documents, risk treatment plans, and security documentation to support GRC 
+initiatives and audit readiness. 
+
+
+### 🎯 Penetration Testing of IoT Device 
+• Performed network-layer and wireless penetration testing on a smart home device using Aircrack-ng and 
+Bettercap, uncovered unencrypted data and insecure communication flows, and provided actionable 
+remediation to improve device security posture. 
+
 
 ---
 

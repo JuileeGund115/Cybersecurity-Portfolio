@@ -28,6 +28,44 @@ Aspiring penetration tester seeking opportunities to apply my expertise in offen
 
 ---
 
+## 🛡️ Cybersecurity Portfolio
+
+As part of my hands-on learning and professional development, I’ve built a cybersecurity portfolio that demonstrates practical skills across key domains in the security landscape. These projects reflect real-world scenarios and challenges, using industry-relevant tools and methodologies.
+
+### 🔍 Focus Areas & Projects
+
+| # | Project/Task                    | Skills & Concepts Explored                                                                 |
+|---|----------------------------------|--------------------------------------------------------------------------------------------|
+| 1 | Security_Audit_Case_Study        | INFOSEC, NIST Risk Management Framework, Security Audits, Compliance Checklists, CIA Triad |
+| 2 | Nmap-vsFTPd-project             | Network Scanning, Port Enumeration, Service Detection, Vulnerability Analysis           |
+| 3 | Metasploit_Post-Exploitation_Project             | Cloud Security, SQL Injection Testing, IAM Policy Review, Database Misconfigurations                    |
+| 4 | Cloud_Database_Vulnerability_Assessment  | Blockchain Security, Smart Contract Auditing, JSON-RPC, Heuristics, Transaction Analysis |
+| 5 | MSc Cybersecurity Dissertation    | Incident Lifecycle, Response Planning, Log Analysis, Forensics Techniques                 |
+| 6 | Tcpdump & Wireshark Analysis     | Deep Packet Inspection, Traffic Monitoring, Protocol Analysis                             |
+| 7 | IDS & SIEM Deployment            | Suricata IDS, SIEM Solutions (Splunk, Chronicle), Alert Tuning, Rule Customization        |
+| 8 | Automation with Python           | Security Scripting, Python Fundamentals, PEP 8 Compliance, Automation of Alerts & Tasks   |
+
+### 🧰 Tools & Platforms Used
+
+- **Security Monitoring:** Suricata, Splunk, Chronicle SIEM  
+- **Traffic Analysis:** Wireshark, Tcpdump  
+- **Scripting & Automation:** Python, Bash  
+- **Infrastructure:** Linux OS, SQL  
+- **Documentation:** Markdown, Google Workspace  
+
+### 🚀 Target Roles
+
+This portfolio has prepared me for entry-level roles such as:
+
+- Cybersecurity Analyst  
+- SOC Analyst  
+- Security Operations Associate  
+- Information Security Analyst  
+- IT Security Specialist  
+- Cyber Defense Analyst  
+
+---
+
 ## 🧪 Projects
 
 ### 🔍 Web Application Penetration Testing

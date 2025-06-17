@@ -21,14 +21,15 @@ The solution includes:
 ## 📁 Project Structure
 
 ```
-📂 project-root/
-├── 📄 README.md
+📂 MSc Cybersecurity Dissertation/
+├── 📄 MSc_Dissertation_JUILEE.pdf
 ├── 📄 presentation.pptx
-├── 📄 script_1_data_extraction.py
-├── 📄 script_2_data_validation.py
-├── 📄 script_3_data_export.py
-├── 📄 script_4_visualization.py
-└── 📄 MSc_Dissertation_JUILEE.pdf
+├── 📂Scripts/
+    ├── 📄 script_1_data_extraction.py
+    ├── 📄 script_2_data_validation.py
+    ├── 📄 script_3_data_export.py
+    ├── 📄 script_4_visualization.py
+└── 📄 README.md
 ```
 
 ### 🔧 Python Scripts

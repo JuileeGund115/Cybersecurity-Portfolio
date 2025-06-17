@@ -19,12 +19,14 @@ Aspiring penetration tester seeking opportunities to apply my expertise in offen
 ---
 ## 🧰 Key Skills & Tools
 
-- **Penetration Testing & Vulnerability Assessment**: Burp Suite, Metasploit, Kali Linux  
-- **Network Security & Traffic Analysis**: Wireshark, Aircrack-ng  
+- **Penetration Testing & Vulnerability Assessment**: Burp Suite, Metasploit, Kali Linux, Nmap, OWASP ZAP 
+- **Network Security & Traffic Analysis**: Wireshark, Aircrack-ng, Tcpdump 
 - **IoT & Hardware Security**: Firmware Analysis, Reverse Engineering (Ghidra)  
-- **Blockchain Security**: Smart Contract Auditing, Mythril, Remix IDE  
-- **SIEM & Log Analysis**: Splunk, Security Onion  
-- **Programming & Scripting**: Python, Bash, C, Java  
+- **Blockchain Security**: Smart Contract Auditing, Mythril, Remix IDE, Ethereum JSON-RPC
+- **SIEM & Log Analysis**: Splunk, Security Onion, SIEM
+- **Programming & Scripting**: Python, Bash, C, Java
+- **Infrastructure & Databases:** Linux OS, SQL
+- **Documentation & Collaboration:** Markdown, Google Workspace
 
 ---
 

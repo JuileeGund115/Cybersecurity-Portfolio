@@ -11,12 +11,6 @@ At **Tata Consultancy Services (TCS)**, I served as a QA Specialist, leading a c
 I am passionate about identifying and mitigating security risks and actively work on security research, CTF challenges, and hands-on projects to keep my skills sharp and industry-relevant.
 
 ---
-
-## 🎯 Career Objective
-
-Aspiring penetration tester seeking opportunities to apply my expertise in offensive security, vulnerability assessment, and blockchain security to help organizations safeguard their digital infrastructure.
-
----
 ## 🧰 Key Skills & Tools
 
 - **Penetration Testing & Vulnerability Assessment**: Burp Suite, Metasploit, Kali Linux, Nmap, OWASP ZAP 

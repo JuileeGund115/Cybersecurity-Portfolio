@@ -34,22 +34,22 @@ As part of my hands-on learning and professional development, I’ve built a cyb
 |---|----------------------------------|--------------------------------------------------------------------------------------------|
 | 1 | [Security Audit Case Study](Security%20Audit%20Case%20Study)     | INFOSEC, NIST Risk Management Framework, Security Audits, Compliance Checklists, CIA Triad |
 | 2 | [Nmap & vsFTPd Vulnerability Analysis](Nmap%20%26%20vsFTPd%20Vulnerability%20Analysis)     | Network Scanning, Port Enumeration, Service Detection, Vulnerability Analysis           |
-| 3 | [Post-Exploitation in Metasploit Lab](Post-Exploitation%20in%20Metasploit%20Lab)      | Cloud Security, SQL Injection Testing, IAM Policy Review, Database Misconfigurations                    |
-| 4 | [Cloud Database Vulnerability Assessment](Cloud%20Database%20Vulnerability%20Assessment) |  Incident Lifecycle, Response Planning, Log Analysis, Forensics Techniques            |
-| 5 | [MSc Cybersecurity Dissertation](https://github.com/JuileeGund115/Cybersecurity-Portfolio/tree/main/MSc%20Cybersecurity%20Dissertation))    |      Blockchain Security, Smart Contract Auditing, JSON-RPC, Heuristics, Transaction Analysis |
+| 3 | [Post-Exploitation in Metasploit Lab](Post-Exploitation%20in%20Metasploit%20Lab)      |   Privilege Escalation, Persistence, Pivoting, Credential Harvesting, Lateral Movement              |
+| 4 | [Cloud Database Vulnerability Assessment](Cloud%20Database%20Vulnerability%20Assessment) |  Cloud Security, SQL Injection Testing, IAM Policy Review, Database Misconfigurations   |
+| 5 | [MSc Cybersecurity Dissertation - Blockchain Security](https://github.com/JuileeGund115/Cybersecurity-Portfolio/tree/main/MSc%20Cybersecurity%20Dissertation))    |      Blockchain Security, Smart Contract Auditing, JSON-RPC, Heuristics, Transaction Analysis |
 | 6 |  [Reserved for Future Project] | TBD |
 
 ### 🚀 Target Roles
 
-This portfolio has prepared me for entry-level roles such as:
+This portfolio has prepared me for Cybersecurity roles such as:
 
-- Penetration Tester (Junior / Associate)
 - Cybersecurity Analyst
 - Vulnerability Analyst  
 - Security Operations Associate   
 - Information Security Analyst  
 - IT Security Specialist  
-- Cyber Defense Analyst  
+- Cyber Defense Analyst
+- Penetration Tester (Associate)
 
 ---
 
@@ -106,7 +106,7 @@ During my master’s program, I conducted advanced research focused on cyber-ris
 ## 📚 Certifications
 
 - Google Cybersecurity Professional Certificate  
-- *Currently Preparing*: CompTIA Security+  
+- *Currently Preparing*: CompTIA Security+ and Certified Ethical Hacker v13
 - Programming Certifications in C, Python, Java  
 - Udemy: Beginner’s Guide to Cybersecurity (2023)  
 - Udemy: Ethical Hacking from Scratch  

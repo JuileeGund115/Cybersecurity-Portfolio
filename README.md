@@ -32,11 +32,11 @@ As part of my hands-on learning and professional development, I’ve built a cyb
 
 | # | Project/Task                    | Skills & Concepts Explored   | 
 |---|----------------------------------|--------------------------------------------------------------------------------------------|
-| 1 | [Security_Audit_Case_Study](https://github.com/JuileeGund115/Security_Audit_Case_Study)       | INFOSEC, NIST Risk Management Framework, Security Audits, Compliance Checklists, CIA Triad |
-| 2 | [Nmap-vsFTPd-project](https://github.com/JuileeGund115/Nmap-vsFTPd-project)        | Network Scanning, Port Enumeration, Service Detection, Vulnerability Analysis           |
-| 3 | [Metasploit_Post-Exploitation_Project](https://github.com/JuileeGund115/Metasploit_Post-Exploitation_Project)            | Cloud Security, SQL Injection Testing, IAM Policy Review, Database Misconfigurations                    |
-| 4 | [Cloud_Database_Vulnerability_Assessment](https://github.com/JuileeGund115/Cloud_Database_Vulnerability_Assessment)  | Blockchain Security, Smart Contract Auditing, JSON-RPC, Heuristics, Transaction Analysis |
-| 5 | [MSc Cybersecurity Dissertation](https://github.com/JuileeGund115/Cybersecurity-Portfolio/tree/main/MSc%20Cybersecurity%20Dissertation))    | Incident Lifecycle, Response Planning, Log Analysis, Forensics Techniques                 |
+| 1 | [Security Audit Case Study](Security%20Audit%20Case%20Study)     | INFOSEC, NIST Risk Management Framework, Security Audits, Compliance Checklists, CIA Triad |
+| 2 | [Nmap & vsFTPd Vulnerability Analysis](Nmap%20%26%20vsFTPd%20Vulnerability%20Analysis)     | Network Scanning, Port Enumeration, Service Detection, Vulnerability Analysis           |
+| 3 | [Post-Exploitation in Metasploit Lab](Post-Exploitation%20in%20Metasploit%20Lab)      | Cloud Security, SQL Injection Testing, IAM Policy Review, Database Misconfigurations                    |
+| 4 | [Cloud Database Vulnerability Assessment](Cloud%20Database%20Vulnerability%20Assessment) |  Incident Lifecycle, Response Planning, Log Analysis, Forensics Techniques            |
+| 5 | [MSc Cybersecurity Dissertation](https://github.com/JuileeGund115/Cybersecurity-Portfolio/tree/main/MSc%20Cybersecurity%20Dissertation))    |      Blockchain Security, Smart Contract Auditing, JSON-RPC, Heuristics, Transaction Analysis |
 | 6 |  [Reserved for Future Project] | TBD |
 
 ### 🚀 Target Roles

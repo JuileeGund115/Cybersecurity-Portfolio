@@ -83,15 +83,13 @@ remediation to improve device security posture.
 
 ## 🧪 Professional Experience
 
-### QA Specialist – Security & Compliance
+### Cybersecurity Analyst
 Tata Consultancy Services · Mar 2021 – Mar 2023 · Mumbai, India
 
-At TCS, I specialized in quality assurance for blockchain-based applications, where I designed and executed comprehensive test strategies that improved defect detection by 25%. I played a key role in audit preparation and compliance reviews, helping reduce non-conformance issues by 30%. Collaborating closely with engineering and risk teams, I helped identify and resolve critical system defects, which decreased downtime by 20%. I also developed automation frameworks to streamline defect management, ensuring a 95% on-time project delivery rate. Additionally, I assessed web platforms and APIs for security vulnerabilities, producing clear remediation recommendations.
 
 ## Master’s Candidate – Cybersecurity & Risk Management
 University of Birmingham · Sep 2023 – Sep 2024 · Birmingham, UK
 
-During my master’s program, I conducted advanced research focused on cyber-risk assessment and application security testing, applying SIEM implementation strategies to simulate real-world threat scenarios. I gained practical experience with tools like Nmap, Metasploit, Burp Suite, OWASP ZAP, and Splunk, while developing frameworks for incident detection and response in line with PCI DSS and GRC standards. Collaborative projects involved designing secure network architectures and drafting compliance-driven security policies. Throughout, I sharpened my analytical and problem-solving skills via penetration testing labs and capture-the-flag challenges.
 
 ---
 

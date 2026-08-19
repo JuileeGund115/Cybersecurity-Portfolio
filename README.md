@@ -6,7 +6,7 @@
 
 I am a Cybersecurity professional with a Master’s degree from the University of Birmingham, specializing in **penetration testing**, **vulnerability assessment**, and **blockchain security**. I have hands-on experience in both offensive and defensive security domains, including **IoT security**, **web application security testing**, and **SIEM-based threat detection**.
 
-At **Tata Consultancy Services (TCS)**, I served as a QA Specialist, leading a cross-functional team in **security testing for blockchain applications**, **vulnerability assessments**, and **compliance reviews**. I implemented blockchain security best practices and ensured compliance with industry standards. 
+At **Tata Consultancy Services (TCS)**, I served as a Assistant System Engineer(Cybersecurity), leading a cross-functional team in **security testing for blockchain applications**, **vulnerability assessments**, and **compliance reviews**. I implemented blockchain security best practices and ensured compliance with industry standards. 
 
 I am passionate about identifying and mitigating security risks and actively work on security research, CTF challenges, and hands-on projects to keep my skills sharp and industry-relevant.
 
